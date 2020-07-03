@@ -1,0 +1,32 @@
+
+halaman 24 hilang
+file yang anda upload pada halaman sementara akan tersimpan selama 24 jam, pilih menu permanen maka file yang anda upload akan tersimpan sampai anda menghapusnya.
+
+halaman permanen
+file yang anda upload pada halaman ini akan tetap tersimpan sampai anda menghapusnya, pilih menu sementara maka file yang anda upload akan tersimpan selama 24 jam.
+
+#Require
+pilihan hapus
+pilihan buat folder
+pilhan rename folder
+share link
+short link
+
+#halaman
+popup sandi untuk user masuk baik pada halaman sementara / permanen
+
+#menu
+sementara
+permanen
+sort link
+login (halaman permanen)
+logout
+
+#footer
+about
+contack
+
+#login
+menu login hanya untuk anda yang menyimpan file dalam jangka waktu lama. Masukkan akun username dan sandi anda yang pernah anda buat sebelumnya. jika anda belum punya, pilih menu permanen buat akun dan upload file anda !
+
+
